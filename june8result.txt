@@ -1,0 +1,42 @@
+Enter the Value in fahrenhaite
+88
+celcius = 31.111111
+
+Enter the two integer to divide
+
+56
+
+44
+the division in float value is 1.27
+
+
+the implicit type casting division of 10 and 6.000000 is 1.666667
+the Explicit type casting division of 10 and 6 is 6.000000
+
+
+Enter the character you want to convert into ASCII value
+s
+The ASCII value for 's' is 115
+
+Enter the (float) salary that you want to convert into whole number
+66.567
+Your salary into whole number is 66
+
+Enter marks for 5 subject: 
+8
+12
+15
+20
+09
+Average marks: 12.80
+
+Enter the double value 
+54873.56
+The convertion from double(0.000000) to int is 0
+enter the weight value:The round offed value for weight(4873.560059) is 4873 kg
+
+Enter the cost in rupee and than paisa
+67
+34
+The total money required is 67.34 rupeeresult without casting (integer division): 2
+result with casting (float division): 2.50

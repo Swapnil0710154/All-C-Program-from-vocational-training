@@ -1,0 +1,61 @@
+linearsearch.c
+output
+enter 5 element in array
+4
+2
+6
+8
+1
+enter the value of key
+3
+Element is not present in array
+
+binarysearch.c
+output
+Enter the number of element
+10
+enter the value of element
+12
+34
+56
+78
+90
+53                   
+54
+13
+93
+100
+enter the vlaue of key element
+32
+key not found
+
+bublesort.c
+output
+Enter the number of element in array
+10
+Enter the element of array
+12          
+34
+65
+87
+56
+34
+89
+12
+43
+62
+The sorted array is given below
+12 12 34 34 43 56 62 65 87 89 
+
+selectionsort.c
+output
+enter the number of elements in array5
+enter the elements of array
+34
+62
+43
+12
+56
+the shorted array is given below
+12      34      43      56      62
+

@@ -1,0 +1,31 @@
+Name = Swapnil Singh
+Description: Swapnil Singh is a SSTC, Bhilai student. She is in 3rd year.
+
+Integer pointer arithmetic:
+Address of pn: 0x7ffeefbff5dc
+Address of pn1: 0x7ffeefbff5e0
+
+Double pointer arithmetic:
+Address of pd: 0x7ffeefbff5d0
+Address of pd1: 0x7ffeefbff5d8
+
+Pointer increment simulation:
+Old value of ptr: 0x3e8
+New value of ptr: 0x3ec
+Pointer subtraction (float *):
+Difference: 250
+
+Array b printed with array subscript notation:
+b[0] = 10
+b[1] = 20
+b[2] = 30
+b[3] = 40
+
+Pointer/offset notation where pointer is array name:
+*(b + 0) = 10
+*(b + 1) = 20
+*(b + 2) = 30
+*(b + 3) = 40
+
+
+

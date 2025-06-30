@@ -1,0 +1,22 @@
+Enter 5 elements of array
+2 4 6 8 3
+the maximum element in array is 8
+
+
+Enter the number of element 
+4
+enter the element 
+1
+2
+3
+4
+the elements are 1 2 3 4 
+the sum of element is 10
+
+
+enter the number for fibonachi series
+10
+the sum of fibonachi series is 55
+
+
+

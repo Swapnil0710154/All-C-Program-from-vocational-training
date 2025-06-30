@@ -1,0 +1,10 @@
+Enter number of rows and columns (max 3x3): 2 2
+Enter 1st array elements:
+1 2
+3 4
+Enter 2nd array elements:
+5 6
+7 8
+The sum of array elements is:
+6	8	
+10	12

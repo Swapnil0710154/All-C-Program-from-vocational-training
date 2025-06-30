@@ -1,0 +1,10 @@
+str_concatinate.c
+output
+Concatenated String: Hello World
+Length of str1: 11
+
+getput.c
+output
+enter your full name
+Swapnil Singh
+your name is swapnil Singh

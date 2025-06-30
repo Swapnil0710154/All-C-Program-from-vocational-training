@@ -1,0 +1,10 @@
+Select an option:
+1. Swap two numbers
+2. Generate Fibonacci series
+Enter your choice (1 or 2): 1
+
+Enter two numbers to swap:
+56
+33
+Before swapping: a = 56, b = 33
+After swapping:  a = 33, b = 56

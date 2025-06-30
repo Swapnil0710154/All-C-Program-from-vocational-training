@@ -1,0 +1,9 @@
+a = 60 and b = 60
+
+5 is stored in location 6422300 
+5 is stored in location 6422300
+5 is stored in location 6422300
+5 is stored in location 6422300
+6422300 is stored in location 6422292
+5 is stored in location 6422296
+now x = 25

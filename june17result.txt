@@ -1,0 +1,11 @@
+Enter the value of a and b: 10 25
+The value of a = 10 and b = 25
+After swap the value of a = 25 and b = 10
+
+Enter the number of elements: 4
+Enter 4 elements:
+10
+20
+30
+40
+Average is 25.00

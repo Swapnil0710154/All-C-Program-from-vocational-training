@@ -1,0 +1,31 @@
+malloc.c
+output
+Enter number of elements: 4
+Enter elements of array: 1
+2
+3
+4
+Sum=10
+
+
+malloc2.c
+output
+Name = Zara Ali
+Description: Zara ali a DPS student in class 10th
+
+calloc.c
+output
+Enter number of elements: 4
+Enter elements of array: 1 2 3 4
+Sum=10
+
+realloc.c
+output
+Enter size of array: 4
+Address of previously allocated memory: 7547312 7547316 7547320 7547324
+Enter new size of array: 6
+7547312 7547316 7547320 7547324 7547328 7547332
+
+memory.c
+output
+1 2 3 4 5 

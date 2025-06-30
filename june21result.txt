@@ -1,0 +1,19 @@
+output
+enter your first complex number as a + ib
+2 4
+enter your second complex number as a + ib
+3 5
+the sum of your first and second complex number as a + ib is 5.00 + i9.00
+the substraction of your first and second complex number as a + ib is -1.00 + i-1.00
+
+
+
+
+studentDetailWithAddress.c
+output
+The id of student is 1
+The name of student is Swapnil Singh
+The grade of student is B
+The state of student is Chhattisgarh
+The city of student is Manendragarh
+The pincode of student is 497447

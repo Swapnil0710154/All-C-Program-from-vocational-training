@@ -1,0 +1,6 @@
+1. Sum of 8 and 6 is: 14
+2. Greeting:
+Hello, Swapnil! Welcome!
+3. Returned number is: 15
+4. Saying goodbye:
+Goodbye! See you again.

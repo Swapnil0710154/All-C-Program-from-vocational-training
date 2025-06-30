@@ -1,0 +1,42 @@
+assignmentweek1.c
+output
+
+I am Swapnil Singh and my roll no. is 301402222210 and i am from CSE branch.
+
+Enter the two numbers which you want to add:
+56
+22
+The sum of 56 and 22 is 78.
+
+Enter the number which you want to check wether it is positive, negetive , or zero.
+07
+The number(07) is positive.
+
+Enter the two numbers in which you want to find the greater 
+number.
+77
+48
+77 is greater than 48.
+
+Enter the number of day in the week.(week starts with sunday)6
+Today is Saturday
+
+
+Enter your age to check that you can cast vote or not.
+21
+Elegible to vote because you are 21 years old.
+
+
+The '=' operator is an assigment operator which is used to assign a value to a variable.
+While the '==' opertor is a comparison operator which is used to compare two value that they are equal to each other or 
+not.
+
+example for == operator
+1 == 2 : 0(false)
+
+example for = operator
+a = 2 : printf('a') : 2
+
+
+
+

@@ -1,0 +1,32 @@
+Account Number: 1001
+Account Type: Checking
+Account Holder Name: Yubika Singh
+Balance: 2100.50
+---------------------
+Account Number: 1002
+Account Type: Savings
+Account Holder Name: Swapnil Singh
+Balance: 100000.00
+---------------------
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A
+Balance: 0.00
+---------------------
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A
+Balance: 0.00
+---------------------
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A
+Balance: 0.00
+
+Enter a string: test string
+test string
+
+Enter a string: this is a test string to check length 
+33
+
+
